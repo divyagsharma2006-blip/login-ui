@@ -15,7 +15,7 @@ const AdminPage = () => {
               onClick={handleLogout}
               className="bg-[#1A73E8] hover:bg-[#1557B0] text-white px-6 py-2 rounded-lg transition-all duration-300"
             >
-              Logout
+              Sign Out
             </button>
           </div>
           
